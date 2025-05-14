@@ -84,6 +84,6 @@ func Generate() {
 func main() {
 	// GetWalletAddressFromMnemonic("lobster order pen culture off fold fire brisk noble key organ chat private apple small cheap struggle intact phrase model blanket wagon throw enough", "")
 	// GetWalletAddressFromMnemonic("rate skate globe bitter reduce reward festival crowd engage conduct dash prize urge boil drop tired noodle relax leopard chest estate disagree tunnel youth", "")
-	GetWalletAddressFromMnemonic("diagram engage adjust youth toy draft vehicle turtle own unaware demand hour", "")
+	GetWalletAddressFromMnemonic("mask dose stomach client upgrade fluid loan hard journey sniff paper river", "")
 
 }
